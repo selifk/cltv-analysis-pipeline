@@ -11,3 +11,4 @@ Bu proje, müşteri verileri üzerinden BG/NBD ve Gamma-Gamma modellerini kullan
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install -r requirements_cltv.txt
+run_cltv_pipeline.bat
